@@ -1,0 +1,35 @@
+﻿{
+  "Title": "Harry Potter",
+  "Author": "JK Rowling",
+  "Plot Twists": [
+    "Peter betrayed the Potters",
+    "Snape kills Dumbledore",
+    "Harry is a horcrux"
+  ],
+  "Characters": [
+    {
+      "Name": "Harry Potter",
+      "Role": "Protagonist"
+    },
+    {
+      "Name": "Ron Weasley",
+      "Role": "Sidekick"
+    },
+    {
+      "Name": "Hermoine Granger",
+      "Role": "Smart Friend"
+    },
+    {
+      "Name": "Albus Dumbledore",
+      "Role": "Wise, Old Mentor"
+    },
+    {
+      "Name": " Voldemort",
+      "Role": "Villian"
+    },
+    {
+      "Name": "Severus Snape",
+      "Role": "Misunderstood Villian"
+    }
+  ]
+}
